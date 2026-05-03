@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# 👋 欢迎来到 MockingJ's homepage
+ 👋 欢迎来到 MockingJ's homepage
 
 这里是我的个人小站～
 
